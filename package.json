@@ -28,7 +28,7 @@
     "check-types": "^7.0.0",
     "imagemagick": "wribbn/node-imagemagick",
     "mkdirp": "^0.5",
-    "mmmagic": "^0.4.4",
+    "mmmagic": "0.4.5",
     "mongoose-crate": "^1.0.0"
   },
   "devDependencies": {
